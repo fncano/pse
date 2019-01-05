@@ -16,6 +16,6 @@ Instrucciones
 <b>Usuario 1</b> = fabcan23@gmail.com <br>
 <b>Contraseña </b> = 1234 <br>
 <br>
-<p>Usuario 2</p> = arelys@gmail.com
-<p>Contraseña</p> = arel1234
+<b>Usuario 2</b> = arelys@gmail.com
+<b>Contraseña</b> = arel1234
 <br><br>
