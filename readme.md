@@ -14,7 +14,7 @@ Instrucciones
   <br>
 5. Ejecute "php artisan serve" he ingrese con cualquiera de los siguientes usuarios.
 
-<b>Usuario 1</b> = fabcan23@gmail.com <br>
+<b>Usuario 1</b> = fabio@gmail.com <br>
 <b>Contraseña </b> = 1234 <br>
 <br>
 <b>Usuario 2</b> = arelys@gmail.com <br>
